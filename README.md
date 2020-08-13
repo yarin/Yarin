@@ -36,7 +36,7 @@
 
 <img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xYarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
 
-[discord]: https://dsc.bio/xYarin
+[discord]: https://discordapp.com/users/213949213409673216
 [pygameProject]: https://github.com/YD-Coding/HarryFlying
 [TopStrixBot]: https://github.com/TopStrix/Icey-Discord-Bot/
 [VoiceRepo]: https://github.com/YD-Coding/voice-assistant
