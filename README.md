@@ -1,8 +1,8 @@
 ### Hi there, I'm Yarin - as known as xYarin 👋😊
 
-## I'm a High School Student, Developer, and a UI Designer! (tryna be 🤡)
-- 🎮 I’m currently working on several projects: [Voice Assistant][VoiceRepo], [Discord Bots][TopStrixBot] and sometimes [2D Games][pygameProject]!
-- 👨‍🎓 I’m currently learning Java, and Android App Development soon
+## I'm a High School Student, Developer, and a backend dev guy shit! (tryna be 🤡)
+- 🎮 I’m currently working on several projects: [Voice Assistant][VoiceRepo], [Discord Bots][DiscordBot] and sometimes [2D Games][pygameProject]!
+- 👨‍🎓 I’m currently learning Java and C#, and Android App Development soon
 - 👯 I’m looking to contribute to Open Source projects (never done this before)
 - 🥅 2020 Goals: Learn new programming skills such as new languages, frameworks and more
 - ⚡ Fun fact: Programming makes me relax sometimes 🤣
@@ -38,7 +38,7 @@
 
 [discord]: https://discordapp.com/users/213949213409673216
 [pygameProject]: https://github.com/YD-Coding/HarryFlying
-[TopStrixBot]: https://github.com/TopStrix/Icey-Discord-Bot/
+[DiscordBot]: https://github.com/xYarin/AntiRaid-bot
 [VoiceRepo]: https://github.com/YD-Coding/voice-assistant
 [youtube]: https://www.youtube.com/channel/UC8KABZymK8lm-txrzCamIfg
 
