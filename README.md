@@ -6,7 +6,7 @@
 - 🎮 I’m currently working on several projects: [Voice Assistant][VoiceRepo], [Discord Bots][DiscordBot] and sometimes [2D Games][pygameProject]!
 - 👨‍🎓 I’m currently learning C#, and Android App Development soon.
 - 👯 I’m looking to contribute to Open Source projects.
-- 🥅 2020 Goals: Learn new programming skills such as new languages, frameworks and more.
+- 🥅 2021 Goals: Learn new programming skills such as new languages, frameworks and more.
 - ❓ One thing I learned from programming: Google always has the solution for what you need.
 - ⚡ Fun fact: Programming makes me relax sometimes 🤣
 
