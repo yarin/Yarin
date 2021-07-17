@@ -32,8 +32,8 @@
 
 <img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216
+                            )](https://discord.com/users/213949213409673216)
 [discord]: https://discordapp.com/users/213949213409673216
 [pygameProject]: https://github.com/xYarin/Snake-It
 [DiscordBot]: https://github.com/xYarin/AntiRaid-bot
