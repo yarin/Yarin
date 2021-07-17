@@ -21,6 +21,13 @@
 
 ### Languages and Tools:
 
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
+
 <br />
 <br />
 
@@ -28,11 +35,10 @@
 
 <img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yarin.yarin)
+
 
 
 [discord]: https://discordapp.com/users/213949213409673216
-[pygameProject]: https://github.com/xYarin/Snake-It
-[DiscordBot]: https://github.com/xYarin/AntiRaid-bot
-[VoiceRepo]: https://github.com/YD-Coding/voice-assistant
-[youtube]: https://www.youtube.com/channel/UC8KABZymK8lm-txrzCamIfg
+
 
