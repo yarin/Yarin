@@ -25,7 +25,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
 
-<img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
+<img align="center" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
 
 <br/>
 
