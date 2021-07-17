@@ -9,14 +9,6 @@
 - ❓ One thing I learned from programming: Google always has the solution for what you need.
 
 
-
-
-### Contact with me:
-
-[<img align="left" alt="xYarin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="xYarin | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
-
-
 <br />
 
 ### Languages and Tools:
@@ -34,6 +26,8 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
 
 <img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
+
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yarin.yarin)
 
