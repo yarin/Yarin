@@ -1,12 +1,11 @@
 ### Hi there, I'm Yarin - as known as xYarin 👋😊
 
-## I'm a High School Student, Developer, and a backend guy! (tryna be 🤡)
+## I'm a High School Student & A Freelance Developer!
 - 🐍 I program mostly in Python!
 - 🤖 I mainly make discord bots!
-- 👨‍🎓 I’m currently learning C#, and Android App Development soon.
+- 👨‍🎓 I’m currently learning C#, and Android App Development in school.
 - 👯 I’m looking to contribute to Open Source projects.
-- 🥅 2021 Goals: Learn new programming skills such as new languages, frameworks and more.
-- ❓ One thing I learned from programming: Google always has the solution for what you need.
+- 🥅 2022 Goals: Learn new programming skills such as new languages, frameworks and more.
 
 
 <br />
