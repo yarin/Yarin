@@ -1,4 +1,4 @@
-## Hi there, I'm Yarin - as known as xYarin 👋
+## Hi there, I'm Yarin - also known as xYarin 👋
 
 <br />
 
