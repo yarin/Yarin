@@ -22,15 +22,13 @@
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yarin.yarin)
-
 ### 📩 Contact Me:
 [![Discord](https://img.shields.io/badge/discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/213949213409673216)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@yarinm0206@gmail.com)
 [![Polywork](https://img.shields.io/badge/polywork-582be8.svg?style=for-the-badge&logo=polywork&logoColor=white)](https://poly.me/yarin)
 [![Instagram](https://img.shields.io/badge/instagram-8a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yarinmina)
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yarin.yarin)
 
 
 
