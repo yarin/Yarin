@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Languages & Tools I claim to know (there's no way I know all of them) 💻</p>
+<h5 align="center">Languages & Tools I claim to know (there's no way I know all of them) 💻</h5>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="center">If you ever think about contacting me, please do it here or I won't see it 💀</p>
+<h5 align="center">If you ever think about contacting me, please do it here or I won't see it 💀</h5>
 
 ###
 
@@ -74,10 +74,15 @@
 
 ###
 
+<p align="center">This is what I'm doing instead of working</p>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/xyarin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xyarin&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xyarin&count=3&unique=false" alt="Spotify recently played"  />
   </a>
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
 </div>
 
 ###
