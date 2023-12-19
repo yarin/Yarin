@@ -76,10 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yarin/yarin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/xyarin">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xyarin&width=900" alt="Spotify recently played"  />
