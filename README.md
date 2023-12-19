@@ -82,7 +82,8 @@
   <a href="https://open.spotify.com/user/xyarin">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xyarin&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
+  <a href="https://discord.com/users/213949213409673216">
+  <img src="https://lanyard-profile-readme.vercel.app/api/213949213409673216" alt="Discord Activity"/>
 </div>
 
 ###
