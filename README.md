@@ -1,35 +1,15 @@
-## Hi there, I'm Yarin - also known as xYarin 👋
-
-<br />
-
-### Languages and Tools I use:
-
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
-
-<br />
-<br />
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213949213409673216)](https://discord.com/users/213949213409673216)
-
-<img align="center" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yarin&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
-
-<br/>
-
-### 📩 Contact Me:
-[![Discord](https://img.shields.io/badge/discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/213949213409673216)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@yarinm0206@gmail.com)
-[![Polywork](https://img.shields.io/badge/polywork-582be8.svg?style=for-the-badge&logo=polywork&logoColor=white)](https://poly.me/yarin)
-[![Instagram](https://img.shields.io/badge/instagram-8a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yarinmina)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yarin.yarin)
+# 💫 About Me:
+I'm currently working on Cheaps 🍟<br>a marketplace build with React Native/Expo, Python/Flask, and Firebase
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/213949213409673216) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yarinmina) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xYarin1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xYarin) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yarin&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yarin&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarin&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
